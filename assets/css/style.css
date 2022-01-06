@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:100,200,300,400,500,600|Merriweather:100,200,300,400,500,600');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+
+h2 {
+    font-family: Monserrat;
+}
+
+.homefont {
+    font-family: Merriweather;
+    font-size: 25px;
+    text-decoration: none;
+}
