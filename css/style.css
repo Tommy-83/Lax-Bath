@@ -16,6 +16,9 @@ body {
 
 .nav-item {
     position:relative;
+    text-align: justify;
+    font-size: large;
+    
     
 }
 
