@@ -1,0 +1,75 @@
+body {
+    background: url('../assets/images/lax-helmet.jpg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    min-height: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    clear:both;
+}
+
+.navbar {
+    background-color: rgb(136, 132, 132);
+}
+
+.jumbatron {
+    background-color: darkgrey;
+    border-radius: 50px;
+    margin-top: 100px;
+
+}
+
+.members-container {
+    background-color: coral;
+    color: darkblue;
+    
+    
+}
+.features {
+    color: coral;
+}
+.feature {
+    background-color: darkblue;
+    text-align: center;
+    padding: 10px;
+}
+
+.nav-fill {
+    width: 100%;
+
+}
+.result {
+    background-color: darkblue;
+    border-radius: 50px;
+}
+
+.footer-container {
+    background-color: rgb(136, 132, 132);
+}
+
+/*------------------gallery*/
+
+#photo {
+    clear:both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+#photo img {
+    width: 100%;
+}
+
+@media screen and (max-width: 943px){
+    #photo {
+        column-count: 3;
+    }
+}
+
+@media screen and (max-width: 800px){
+    #photo {
+        column-count: 2;
+    }
+}
