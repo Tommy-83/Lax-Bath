@@ -14,6 +14,11 @@ body {
     background-color: rgb(136, 132, 132);
 }
 
+.nav-item {
+    position:relative;
+    
+}
+
 .jumbatron {
     background-color: darkgrey;
     border-radius: 50px;
@@ -72,4 +77,20 @@ body {
     #photo {
         column-count: 2;
     }
+}
+
+/*--------Contact---*/
+
+.contact-container {
+    background-color: darkblue;
+    color: coral;
+    margin-top: 100px;
+    padding: 10px;
+    
+}
+
+.form-btn {
+    background-color: coral;
+    color: darkblue;
+
 }
