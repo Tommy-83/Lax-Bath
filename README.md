@@ -23,9 +23,9 @@
 * CSS3
 
 ## Online Resources and problem solving
-*[Quora](#https://www.quora.com)
-*[w3schools](#http://www.w3schools.com)
-*[Getbootstrap](#https://getbootstrap.com)
+* Quora
+* w3schools
+* Getbootstrap
 
 
 
