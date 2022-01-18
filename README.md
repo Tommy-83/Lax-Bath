@@ -7,7 +7,12 @@
 ## Design
 * The main colors of the website are Coral and Darkblue with a small addition of Darkgrey.
 * Font used is Roboto
-* Images used are all downloaded from Pexel.com as well as Pixabay.com
+* Images used:
+1. Lax-1 to Lax-15 are owned by Pixabay.com
+2. Lax-15 is owned by Styves Exantus @ Pixabay.com
+3. Gaz is owned by Pixabay.com
+4. Sam is owned by Creation Hill @ Pixabay.com
+5. Lax-helmet is owned by pictureback @ Pixabay.com
 
 ## Features
 * The website is responsive on all devices
