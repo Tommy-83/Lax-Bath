@@ -32,5 +32,20 @@
 * w3schools
 * Getbootstrap
 
+## Code Used
+1. <div class="form-group">
+  <label for="usr">Name:</label>
+  <input type="text" class="form-control" id="usr">
+</div>
+<div class="form-group">
+  <label for="pwd">Password:</label>
+  <input type="password" class="form-control" id="pwd">
+</div>
+* Used to set up inputs, code sourced from w3schools.com
 
+2. <div class="form-group">
+  <label for="comment">Comment:</label>
+  <textarea class="form-control" rows="5" id="comment"></textarea>
+</div>
+* Used to create comment section in signup area, code sourced from w3schools.com
 
