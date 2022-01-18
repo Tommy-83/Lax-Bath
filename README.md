@@ -52,3 +52,4 @@
 ## Testing
 * The website was tested on Google Chroma as well as Microsoft Edge. All links were responsive and loading well. On both browsers website responded well to changing screen sizes.
 * The website was tested on Safari, both desktop as well as mobile version ( vertical and horizontal). In both cases page loaded successfully.
+
