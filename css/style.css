@@ -12,7 +12,7 @@ body {
 }
 
 .navbar {
-    background-color: #C6AD8F;
+    background-color: #af8c62;
     
 }
 
@@ -26,7 +26,7 @@ body {
 }
 
 .jumbatron {
-    background-color: #C6AD8F;
+    background-color: #af8c62;
     color:black;
     border-radius: 50px;
     margin-top: 60px;
@@ -35,7 +35,7 @@ body {
 }
 
 .members-container {
-    background-color: #425664;
+    background-color: #2a3740;
     color: #F6F4F2;
     opacity: 0.9;
        
@@ -51,10 +51,14 @@ body {
     color: #F6F4F2;
 }
 .feature {
-    background-color: #425664;
+    background-color: #2a3740;
     text-align: center;
     padding: 10px;
     opacity: 0.9;
+}
+
+.inline {
+    margin-bottom: 20px;
 }
 
 .feature:hover {
@@ -69,16 +73,17 @@ body {
 
 }
 .result {
-    background-color: #C6AD8F;
+    background-color: #af8c62;
     color: black;
     border-radius: 50px;
-    margin-bottom: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
     
 
 }
 
 .footer-container {
-    background-color: #C6AD8F;
+    background-color: #af8c62;
     
 }
 
@@ -110,7 +115,7 @@ body {
 /*--------Contact---*/
 
 .contact-container {
-    background-color: #425664;
+    background-color: #2a3740;
     color: #F6F4F2;
     margin-top: 100px;
     padding: 10px;
@@ -118,7 +123,7 @@ body {
 }
 
 .form-btn {
-    background-color: #425664;
+    background-color: #2a3740;
     color: #F6F4F2;
 
 }
