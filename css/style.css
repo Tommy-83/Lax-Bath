@@ -12,13 +12,14 @@ body {
 
 .navbar {
     background-color: #C6AD8F;
-    color: #425664;
+    
 }
 
 .nav-item {
     position:relative;
     text-align: justify;
     font-size: large;
+    
     
     
 }
@@ -35,8 +36,14 @@ body {
     background-color: #425664;
     color: #F6F4F2;
     opacity: 0.9;
-    
-    
+       
+}
+
+.members-container:hover {
+    background-color:darkgrey;
+    color:black;
+    opacity: 0.9;
+       
 }
 .features {
     color: #F6F4F2;
@@ -48,6 +55,13 @@ body {
     opacity: 0.9;
 }
 
+.feature:hover {
+    background-color:darkgrey;
+    color:black;
+    text-align: center;
+    padding: 10px;
+    opacity: 0.9;
+}
 .nav-fill {
     width: 100%;
 
@@ -56,6 +70,8 @@ body {
     background-color: #C6AD8F;
     color: #425664;
     border-radius: 50px;
+    
+
 }
 
 .footer-container {
