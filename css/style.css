@@ -12,6 +12,7 @@ body {
 
 .navbar {
     background-color: #C6AD8F;
+    color: #425664;
 }
 
 .nav-item {
@@ -24,6 +25,7 @@ body {
 
 .jumbatron {
     background-color: #425664;
+    color:#F6F4F2;
     border-radius: 50px;
     margin-top: 100px;
 
@@ -43,6 +45,7 @@ body {
     background-color: #425664;
     text-align: center;
     padding: 10px;
+    opacity: 0.9;
 }
 
 .nav-fill {
@@ -51,6 +54,7 @@ body {
 }
 .result {
     background-color: #C6AD8F;
+    color: #425664;
     border-radius: 50px;
 }
 
