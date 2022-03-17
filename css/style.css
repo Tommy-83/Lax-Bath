@@ -8,6 +8,7 @@ body {
     margin-top: 50px;
     margin-bottom: 50px;
     clear:both;
+
 }
 
 .navbar {
@@ -25,10 +26,11 @@ body {
 }
 
 .jumbatron {
-    background-color: #425664;
-    color:#F6F4F2;
+    background-color: #C6AD8F;
+    color:black;
     border-radius: 50px;
-    margin-top: 100px;
+    margin-top: 60px;
+    margin-bottom: 40px;
 
 }
 
@@ -68,8 +70,9 @@ body {
 }
 .result {
     background-color: #C6AD8F;
-    color: #425664;
+    color: black;
     border-radius: 50px;
+    margin-bottom: 30px;
     
 
 }
