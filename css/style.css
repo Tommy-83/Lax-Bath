@@ -30,16 +30,16 @@ body {
 }
 
 .members-container {
-    background-color: coral;
-    color: darkblue;
+    background-color: #425664;
+    color: #F6F4F2;
     
     
 }
 .features {
-    color: coral;
+    color: #F6F4F2;
 }
 .feature {
-    background-color: darkblue;
+    background-color: #425664;
     text-align: center;
     padding: 10px;
 }
