@@ -1,8 +1,11 @@
 # Welcome to Bath Lacrosse Page
+## Website
+* This is a fully responsive website of Bath Lacrosse Club, its designed in order to showcase the clubs offer and encourage people to join the team and follow teams results.
+## Code Institute - Milestone Project 1
+## By Tomasz Kosakowski
 
-## Users
-* For the first time visitors I want to invite them to have a quick look into the world of Lacrosse in Bath, gallery pictures as well as current players are in place  to invite them to fill in the contact box and get in touch.
-* For the following users I want them to be able to follow the teams results, as well as follow the most up to date lacrosse gallery entries.
+[view Website Link](https://tommy-83.github.io/Lax-Bath/)
+[view repository on GitHub](https://chocolate-bird-xd77hvy2.ws-eu38.gitpod.io/)
 
 ## Design
 * The main colors of the website are Coral and Darkblue with a small addition of Darkgrey.
