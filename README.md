@@ -4,8 +4,21 @@
 ## Code Institute - Milestone Project 1
 ## By Tomasz Kosakowski
 
-[view Website Link](https://tommy-83.github.io/Lax-Bath/)
-[view repository on GitHub](https://chocolate-bird-xd77hvy2.ws-eu38.gitpod.io/)
+* [view Website Link](https://tommy-83.github.io/Lax-Bath/)
+* [view repository on GitHub](https://chocolate-bird-xd77hvy2.ws-eu38.gitpod.io/)
+
+## Website goal
+* Make the sport of Lacrosse more known and more accessible to people. Showcase the games, results and possibility of joining the community of this sport.
+* By building the database of possible future players we want to share the knowlege as well as times of games, training sessions as well as other developement possibilitues.
+* increas of the players numbers as well as people who would love to help to develope the sport further in the area.
+
+## (UX) user Experiance
+* Bu accessing the website users will be able to find out about past games, learn about the experiance of playing lacrosse from other players. By joining the data base they will be able to find out the times of training sessions, future games as well as where to buy the equipement needed to play the sport.
+
+## Users Goals:
+* First Time Users - This website will be the window to the new sport,will be able to read reviews , find the relevant information about training session as well as links to recommended retailers.
+* Returning Users - The group of people that is already in the sport, looking to plan the league games times, take part in players session as well as find all the best gear, in order to take their game further.
+
 
 ## Design
 * The main colors of the website are Coral and Darkblue with a small addition of Darkgrey.
