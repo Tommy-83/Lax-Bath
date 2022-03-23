@@ -21,7 +21,7 @@
 
 
 ## Design
-* The main colors of the website are Coral and Darkblue with a small addition of Darkgrey.
+* The main colors of the website are Gold and Darkblue with a small addition of Darkgrey.
 * Font used is Roboto
 * Images used:
 1. Lax-1 to Lax-15 are owned by Pixabay.com
