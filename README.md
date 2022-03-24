@@ -95,5 +95,34 @@
 ## Results:
 ### Warnings:
 1. Home Page:
-*  <img src="assets/images/index-war.png" height="500" width="400" alt="Index Page">
+*  <img src="assets/images/index-war.png" height="500" width="800" alt="Index Page">
+2. Gallery Page:
+*  <img src="assets/images/gallery-war.png" height="500" width="800" alt="Gallery Page">
+3. Contact Page:
+*  <img src="assets/images/contact-war.png" height="500" width="800" alt="Contact Page">
+4. Merchandise Page:
+*  <img src="assets/images/gear-war.png" height="500" width="800" alt="Merchandise Page">
+
+### Validators Result:
+1. Home Page:
+*  <img src="assets/images/index-val.png" height="500" width="800" alt="Index Page">
+2. Gallery Page:
+*  <img src="assets/images/gallery-val.png" height="500" width="850" alt="Gallery Page">
+3. Contact Page:
+*  <img src="assets/images/contact-val.png" height="500" width="800" alt="Contact Page">
+4. Merchandise Page:
+*  <img src="assets/images/gear-val.png" height="500" width="800" alt="Merchandise Page">
+5. Style CSS:
+*  <img src="assets/images/Lax-Bath-css.png" height="500" width="800" alt="CSS Validator">
+
+## Lighthouse results:
+1. Home Page:
+*  <img src="assets/images/front-page-lighthouse.png" height="500" width="400" alt="Index Page">
+2. Gallery Page:
+*  <img src="assets/images/gallery-lighthouse.png" height="500" width="400" alt="Gallery Page">
+3. Contact Page:
+*  <img src="assets/images/Sign-up-lighthouse.png" height="500" width="400" alt="Contact Page">
+4. Merchandise Page:
+*  <img src="assets/images/gear-lighthouse.png" height="500" width="400" alt="Merchandise Page">
+
 
