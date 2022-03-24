@@ -5,7 +5,7 @@
 ## By Tomasz Kosakowski
 
 * [view Website Link](https://tommy-83.github.io/Lax-Bath/)
-* [view repository on GitHub](https://chocolate-bird-xd77hvy2.ws-eu38.gitpod.io/)
+* [view Repository on GitHub](https://chocolate-bird-xd77hvy2.ws-eu38.gitpod.io/)
 
 ## Website goal
 * Make the sport of Lacrosse more known and more accessible to people. Showcase the games, results and possibility of joining the community of this sport.
@@ -37,26 +37,42 @@
  * <img src="assets/images/Front-page-wire.png" height="300" width="300" alt="Front Page">
 2. Gallery:
  * <img src="assets/images/gallery-wire.png" height="300" width="300" alt="Gallery Page">
+3. Sign Up:
+ * <img src="assets/images/sign-up-wire.png" height="300" width="300" alt="Sign Up Page">
+4. Merchandise:
+ * <img src="assets/images/gear-wire.png" height="300" width="300" alt="Gear Page">
 
-## Features
-* The website is responsive on all devices
+# Features
+## The website is responsive on all devices:
+1. Pc Screen
+ * <img src="assets/images/pc-index.png" height="500" width="500" alt="PC Screen">
+2. Tablet Screen
+ * <img src="assets/images/tablet-index.png" height="500" width="400" alt="Tablet Screen">
+3. Phone Screen
+ * <img src="assets/images/phone-index.png" height="500" width="250" alt="Phone Screen">
+# Existing Features
+* Navigation bar with links to "Home", "Gallery", "Get in touch!" and "Merchandise" pages.
+* Footer navigation bar with links to all social media accounts of the team - Facebook, Twitter, Instagram as well as YouTube.
+* Sign up form available for new and future members to fill in and be added to the database of email contacts.
 
-## Frameworks, Libraries & Programs Used
-1. Bootstrap 4.4.1
-2. Font Awesome
-3. GitHub
-4. Git
+
+# Technology, Libraries & Programs Used:
 
 ## Languages Used
-* HTML5
-* CSS3
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ## Online Resources and problem solving
-* Quora
-* w3schools
-* Getbootstrap
+* [Quora](https://www.quora.com/)
+* [w3schools](https://www.w3schools.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Balsamiq](https://balsamiq.com/)
+* [Font Awesome](https://fontawesome.com/)
+* [Pexels](https://www.pexels.com/)
+* [Pixabay](https://pixabay.com/)
+* [Google Fonts](https://fonts.google.com/)
 
-## Code Used
+# Code Used
 1. <div class="form-group">
   <label for="usr">Name:</label>
   <input type="text" class="form-control" id="usr">
@@ -73,7 +89,11 @@
 </div>
 * Used to create comment section in signup area, code sourced from w3schools.com
 
-## Testing
-* The website was tested on Google Chroma as well as Microsoft Edge. All links were responsive and loading well. On both browsers website responded well to changing screen sizes.
-* The website was tested on Safari, both desktop as well as mobile version ( vertical and horizontal). In both cases page loaded successfully.
+# Testing
+* [W3C Markup Validation Service](https://validator.w3.org/)
+
+## Results:
+### Warnings:
+1. Home Page:
+*  <img src="assets/images/index-war.png" height="500" width="400" alt="Index Page">
 
