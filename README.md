@@ -22,13 +22,21 @@
 
 ## Design
 * The main colors of the website are Gold and Darkblue with a small addition of Darkgrey.
+* This colors were used as they do work well together, making a ballanced pallet not taking the attention of visitor from the content.
 * Font used is Roboto
-* Images used:
+* Images used and copyrights:
 1. Lax-1 to Lax-15 are owned by Pixabay.com
 2. Lax-15 is owned by Styves Exantus @ Pixabay.com
 3. Gaz is owned by Pixabay.com
 4. Sam is owned by Creation Hill @ Pixabay.com
 5. Lax-helmet is owned by pictureback @ Pixabay.com
+
+## Wireframes:
+* The basic design of the website was made with the use of [balsamiq](https://balsamiq.com/wireframes/)
+1. Front page:
+ * <img src="assets/images/Front-page-wire.png" height="300" width="300" alt="Front Page">
+2. Gallery:
+ * <img src="assets/images/gallery-wire.png" height="300" width="300" alt="Gallery Page">
 
 ## Features
 * The website is responsive on all devices
