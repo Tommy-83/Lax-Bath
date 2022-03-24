@@ -125,4 +125,41 @@
 4. Merchandise Page:
 *  <img src="assets/images/gear-lighthouse.png" height="500" width="400" alt="Merchandise Page">
 
+# Inception:
+* This project was created using Code Institute template from GitHub:
+* Project was created and called : Lax-Bath
+* In order to push this project from GitPod to Github I used a set of git commands on the terminal:
+*	git status - Check the status of the repository and see if there were any changes in files
+*	git add . - Add the files that were modified/created, so we can commit it
+*	git commit -m "message for commit" - Commits all the changes
+*	git push - Pushes all committed versions to GitHub
+
+# Deployment on GitHub Pages:
+*	The project was deployed to GitHub Pages using the following steps:
+*	Log in to GitHub and locate GitHub Repository
+*	At the top of repository click on "Settings"
+*	Once you are in settings scroll down to "GitHub Pages"
+*	Under "Source", click the dropdown called "None" and select "Master Branch".
+*	After the page automatically refresh scroll down again on "GitHub Pages" and I will see live link to the published site.
+
+# Cloning Repository:
+*	Local Clone
+*	Log in to GitHub and locate GitHub Repository
+*	At the top of repository click on Code
+*	From the dropdown menu under HTTPS copy the link
+*	Now on the IDE create a directory where you want to make the clone
+*	Type git clone and paste the link that you copy from step 3.
+
+# Forking repository:
+* By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting  the original repository by using the following steps:
+*	Log in to GitHub and locate the GitHub Repository
+*	At the top of the Repository (not top of page) just above the "Settings" Button on - - the menu, locate the "Fork" Button.
+*	You should now have a copy of the original repository in your GitHub account.
+
+# Credits:
+* Massive thank you to both of my tutors as well as Manuel for all your help.
+
+
+
+
 
