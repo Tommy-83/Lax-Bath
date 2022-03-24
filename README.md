@@ -125,6 +125,23 @@
 4. Merchandise Page:
 *  <img src="assets/images/gear-lighthouse.png" height="500" width="400" alt="Merchandise Page">
 
+# Testing user experiance:
+
+## New User:
+* New user will be greated with banner introducing him/her to the potential team mates. The attention will be guided to the statements allowing them to get a better image who the potential teammates are.
+* Second feature is the games results as well as the brief description of the games. Showing how the team performed in recent past.
+* All th epages have the socials in the footer allowing the user to link with the teams social accounts.
+* Following to gallery visitor will be shown a collection of striking pictures showcasing what lacrosse is all about.
+Get in Touch part allows user to enter his email address as well as any question in regards to joining the team or one training session.
+* Lastly user will be taken to the merchandise section where big logos of the best uk supplers are shown. By clicking on the relevant picture user will be taken to the shop of the vendor.
+
+## Existing User:
+* The existing user will be able to use the social links to get all the most up to date informations about the team.
+* All the team news from the front page will be updater as soon as the game happen making it the best place to keep up to date with team performance.
+* By using the contact feature users will be able to add their own photos making the gallery live and growing.
+* Shop part of the website is the only place with all the vendors on one page making it the best place to upgrade your gear following the developement and growth of game skills.
+* The main object for the returning users is this website to become the hub of their lacrosse activities and information.
+
 # Inception:
 * This project was created using Code Institute template from GitHub:
 * Project was created and called : Lax-Bath
